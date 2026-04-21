@@ -8,7 +8,7 @@
 ## 🇺🇸 English
 My fluffy friends are unique in their extremely different personalities, yet they are absolutely identical the moment they step into the kitchen.
 
-* **Update Policy:** New 16:9 shot every Monday.
+* **Update Policy:** New 16:9 shot every Tuesday.
 * **Structure:** Folders named in English: `YYYY-MM-DD-DESCRIPTION`.
 * **The Crew:** Liza & Mishka.
 
@@ -18,7 +18,7 @@ My fluffy friends are unique in their extremely different personalities, yet the
 ## 🇩🇪 Deutsch
 Meine flauschigen Freunde sind durch ihre extrem unterschiedlichen Charaktere einzigartig, aber absolut identisch, sobald sie die Küche betreten.
 
-* **Update-Strategie:** Jeden Montag ein neues Foto im 16:9 Format.
+* **Update-Strategie:** Jeden der Dienstag ein neues Foto im 16:9 Format.
 * **Struktur:** Ordner sind auf Englisch benannt: `YYYY-MM-DD-DESCRIPTION`.
 * **Das Team:** Lisa & Mischka.
 
@@ -28,6 +28,6 @@ Meine flauschigen Freunde sind durch ihre extrem unterschiedlichen Charaktere ei
 ## 🇷🇺 Русский
 Мои пушистые друзья уникальны своими чрезвычайно разными характерами, но абсолютно одинаковы при заходе на кухню.
 
-* **График обновлений:** Каждый понедельник новое фото 16:9.
+* **График обновлений:** Каждый вторник новое фото 16:9.
 * **Структура:** Папки именуются на английском: `YYYY-MM-DD-DESCRIPTION`.
 * **Состав:** Лиза и Миша.
